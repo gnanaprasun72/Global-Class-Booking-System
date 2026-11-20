@@ -44,7 +44,7 @@ docker compose version
 1. Clone the repository and enter its directory:
 
    ```shell
-   git clone https://github.com/Balaji2004-bmn/Global-Class-Booking-System.git
+   git clone(https://github.com/gnanaprasun72/Global-Class-Booking-System.git)
    cd Global-Class-Booking-System
    ```
 
